@@ -1,0 +1,22 @@
+# Purchase Orders
+PO001,IC101,50,2024-12-01,Rejected
+PO002,IC102,20,2024-12-02,Approved
+PO003,IC103,10,2024-12-03,Rejected
+-----------------------------------
+# Stock Status
+Item_Code,Item_Name,Stock_Level,Reorder_Level
+IC101,Monitor,40,30
+IC102,Keyboard,10,15
+IC103,Mouse,60,20
+-----------------------------------
+# Payments
+PO001,IC101,S001,50,Rejected,Pending
+PO002,IC102,S002,20,Approved,Paid
+PO003,IC103,S003,10,Rejected,Paid
+-----------------------------------
+# Supplier Details
+Supplier_ID,Name,Email,Phone_Number,Company_Name,Earlier_Payment,Current_Payment,Date
+S001,John Doe,john.doe@apu.com,012-3456789,APU,450.00,500.00,2024-12-11
+S002,Jane Smith,jane.smith@apu.com,987-6543210,APU,275.00,300.00,2024-12-10
+S003,Robert Brown,robert.brown@apu.com,123-4567890,APU,700.00,750.00,2024-12-09
+-----------------------------------

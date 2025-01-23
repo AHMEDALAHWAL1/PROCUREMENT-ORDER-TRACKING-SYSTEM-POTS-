@@ -1,0 +1,7 @@
+# Purchase Order (PO) Data
+PO ID, Item_Code, Date, Status
+po001, IC01, 2024-03-25, Pending
+po002, IC02, 2024-11-20, Pending
+po003, IC03, 2024-09-12, Pending
+po004, IC04, 2024-02-11, Pending
+------------------------------------------------------------

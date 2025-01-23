@@ -1,0 +1,11 @@
+101,Electric Kettle,Household Appliance,Kitchen Tech Co.,89.90
+102,Microwave Oven,Household Appliance,Modern Appliances Ltd.,399.90
+103,LED Television (42-inch),Electronics,Vision Electronics,1299.00
+104,Washing Machine (7kg),Household Appliance,HomeCare Solutions,899.00
+105,Ceiling Fan (56-inch),Home Essentials,Breeze Technology,199.90
+106,Refrigerator (2-Door/ 300L),Household Appliance,Cool Home Co.,1099.00
+107,Bluetooth Speaker,Electronics, SoundWave Supplies,149.90
+108,Rice Cooker (5L),Household Appliance,Kitchen Tech Co.,129.90
+109,Air Conditioner (1.5HP),Electronics,Chill Solutions,1599.00
+110,LED Light Bulbs (Pack of 10),Home Essentials,Bright Lighting Ltd.,59.90
+

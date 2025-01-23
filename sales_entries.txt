@@ -1,0 +1,12 @@
+13-Dec-2024,102/Microwave Oven,7,Household Appliance,2000,14000.0
+13-Dec-2024,103/LED Television,3,Home Essentials,3000,9000.0
+13-Dec-2024,101/Electric Kettle,1,Household Appliance,120,120.0
+13-Dec-2024,110/LED Light Bulbs,1,Home Essentials,234,234.0
+13-Dec-2024,101/Electric Kettle,22,Household Appliance,89,1958.00
+13-Dec-2024,101/Electric Kettle,1,Household Appliance,89,89.0
+13-Dec-2024,102/Microwave Oven,1,Household Appliance,89,89.0
+13-Dec-2024,101/Electric Kettle,2,Household Appliance,89,178.00
+13-Dec-2024,101/Electric Kettle,10,Household Appliance,89,890.0
+13-Dec-2024,110/LED Light Bulbs,2,Home Essentials,75,150.0
+13-Dec-2024,110/LED Light Bulbs,19,Home Essentials,75,1425.0
+14-Dec-2024,101/Electric Kettle,1,Household Appliance,89,89.0

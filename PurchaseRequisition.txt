@@ -1,0 +1,9 @@
+PR ID, Sales Manager ID, Quantity, Date, Priority
+109, Air Conditioner, 2, 12-Dec-2024, High
+102, Microwave Oven, 2, 12-Dec-2024, High
+105, Ceiling Fan, 2, 13-Dec-2024, Medium
+110, LED Light Bulbs, 4, 14-Dec-2024, Low
+106, Refrigerator, 8, 13-Dec-2024, Medium
+------------------------------------------------------------
+103, LED Television, 5, 2024-05-19, Medium
+102, Microwave Oven, 1, 1, Low

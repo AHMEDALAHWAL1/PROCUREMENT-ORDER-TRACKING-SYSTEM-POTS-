@@ -1,0 +1,17 @@
+PO001,10-Dec-2024,Electric Kettle,10 units,899.00,Approved
+PO002,12-Dec-2024,Microwave Oven,5 units,1999.50,Pending
+PO002,12-Dec-2024,Bluetooth Speaker,2 units,299.80,Pending
+PO003,14-Dec-2024,LED Television,3 units,3897.00,Rejected
+PO003,14-Dec-2024,Rice Cooker,5 units,649.50,Rejected
+PO004,15-Dec-2024,Washing Machine,2 units,1798.00,Approved
+PO005,16-Dec-2024,Ceiling Fan,8 units,1599.20,Approved
+PO006,18-Dec-2024,Refrigerator,1 unit,1099.00,Pending
+PO006,18-Dec-2024,Air Conditioner,1 unit,1899.00,Pending
+PO007,19-Dec-2024,LED Light Bulbs,10 packs,599.00,Rejected
+PO008,20-Dec-2024,Rice Cooker,3 units,389.70,Approved
+PO008,20-Dec-2024,Electric Kettle,5 units,449.50,Approved
+PO009,22-Dec-2024,Bluetooth Speaker,4 units,599.60,Pending
+PO010,23-Dec-2024,Ceiling Fan,5 units,999.50,Approved
+PO010,23-Dec-2024,LED Television,2 units,2598.00,Approved
+
+

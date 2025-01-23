@@ -1,0 +1,12 @@
+A01,admin,admin123,Administrator,Kuala Lumpur,10-10-1991
+SM01,SM,SM123,Sales Manager,Penang,15-07-1985
+PM01,PM,PM123,Purchase Manager,Johor Bahru,30-03-1992
+IM01,IM,IM123,Inventory Manager,Kota Kinabalu,05-10-1994
+FM01,FM,FM123,Finance Manager,Melaka,05-11-1991
+SM02,SM_2,SM1234,Sales Manager,Kuala Lumpur,12-09-1989
+PM02,James,PM1234,Purchase Manager,Shah Alam,13-12-1993
+FM03,Bob,bob3,Inventory Manager,Sabah,16-02-2000
+A02,Saniah,s123,Administrator,Kuala Lumpur,15-06-2003
+FM02,Jane,ja123,Finance Manager,Penang,12-05-2000
+PM03,Sara,sa789,Purchase Manager,Singapore,16-10-2000
+IM02,Jerry,im45,Inventory Manager,Kuala Lumpur,08-09-1998

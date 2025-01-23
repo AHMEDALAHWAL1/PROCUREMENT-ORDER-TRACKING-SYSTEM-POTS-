@@ -1,0 +1,20 @@
+10-Dec-2024,101,Electric Kettle,Household Appliance,10,899.00
+10-Dec-2024,102,Microwave Oven,Household Appliance,5,1999.50
+11-Dec-2024,107,Bluetooth Speaker,Electronics,2,299.80
+12-Dec-2024,103,LED Television,Electronics,3,3897.00
+13-Dec-2024,108,Rice Cooker,Household Appliance,5,649.50
+14-Dec-2024,104,Washing Machine,Household Appliance,2,1798.00
+15-Dec-2024,105,Ceiling Fan,Home Essentials,8,1599.20
+16-Dec-2024,106,Refrigerator,Household Appliance,1,1099.00
+17-Dec-2024,109,Air Conditioner,Electronics,1,1899.00
+18-Dec-2024,110,LED Light Bulbs,Home Essentials,10,599.00
+19-Dec-2024,108,Rice Cooker,Household Appliance,3,389.70
+19-Dec-2024,101,Electric Kettle,Household Appliance,5,449.50
+20-Dec-2024,107,Bluetooth Speaker,Electronics,4,599.60
+21-Dec-2024,105,Ceiling Fan,Home Essentials,5,999.50
+22-Dec-2024,103,LED Television,Electronics,2,2598.00
+23-Dec-2024,102,Microwave Oven,Household Appliance,4,1599.60
+24-Dec-2024,104,Washing Machine,Household Appliance,1,899.00
+25-Dec-2024,109,Air Conditioner,Electronics,2,3798.00
+26-Dec-2024,108,Rice Cooker,Household Appliance,6,779.40
+27-Dec-2024,110,LED Light Bulbs,Home Essentials,8,479.20

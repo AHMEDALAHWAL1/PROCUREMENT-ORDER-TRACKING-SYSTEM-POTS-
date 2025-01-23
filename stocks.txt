@@ -1,0 +1,10 @@
+105,Ceiling Fan (56-inch),15 units,20 units,Needs Reorder
+101,Electric Kettle,8 units,10 units,Needs Reorder
+109,Air Conditioner (1.5HP),30 units,5 units,Available
+107,Bluetooth Speaker,25 units,15 units,Available
+103,LED Television (42-inch),12 units,10 units,Available
+102,Microwave Oven,5 units,8 units,Needs Reorder
+108,Rice Cooker (5L),10 units,8 units,Available
+110,LED Light Bulbs (Pack of 10),29 units,30 packs,Needs Reorder
+104,Washing Machine (7kg),3 units,5 units,Needs Reorder
+106,Refrigerator (2-Doors/300L),7 units,5 units,Available

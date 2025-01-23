@@ -1,0 +1,24 @@
+# Purchase Order
+
+1, admin, admin123, Administrator
+2, sm1, sm123, Sales Manager
+3, pm1, pm123, Purchase Manager
+4, im1, im123, Inventory Manager
+5, fm1, fm123, Finance Manager
+-----------------------------------------------------
+# Item Data 
+Item Code, Item Name, Supplier ID
+101, Refrigerator, s1
+102, Washing Machine, s2
+103, Microwave, s3
+104, Air Conditioner, s1
+------------------------------------------------------
+# Supplier Data 
+Supplier ID, Supplier Name, Item Supplied
+
+s2, Smart Home Electronics, Washing Machine
+s1, Home Appliances Co., Refrigerator, Air Conditioner
+s3, Kitchen Essentials Ltd., Microwave
+---------------------------------------------------------
+
+
